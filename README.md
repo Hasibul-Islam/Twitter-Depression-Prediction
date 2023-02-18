@@ -17,8 +17,6 @@ pip install numpy
 pip install pandas
 pip install sklearn
 pip install keras
-pip install sklearn
-pip install keras
 pip install re
 pip install copy
 pip install matplotlib
